@@ -28,7 +28,7 @@ cd caravan
 
 ## 🖥️ Preview
 
-![home]()
+![home](img/caravan.jpg)
 
 <br>
 <br>
