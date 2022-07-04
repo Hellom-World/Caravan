@@ -4,9 +4,9 @@ O site caravan.com foi desenvolvido durante o curso de Bootstrap 4 da Origamid. 
 
 ## 📖 Sobre
 
-O Caravan é um site de viagem no qua você tem três opções de viagem.
-Nele temos tela de cadastro, para escolher entre dois planos Gold ou Platinum.
-Opções de pagamento por boleto ou cartão de crédito.
+O Caravan é um site de viagem no qua você tem três opções de viagem. <br>
+Nele temos tela de cadastro, para escolher entre dois planos Gold ou Platinum. <br>
+Opções de pagamento por boleto ou cartão de crédito. <br>
 Tela de contato e perguntas frequentes.
 ### 🔧 Tecnologias Utilizadas
 
